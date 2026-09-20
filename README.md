@@ -235,4 +235,4 @@ This repository serves as the official landing page for Collins English Dictiona
 **Get the most recent version of Collins English Dictionary today!**
 
 ---
-**Last updated:** 2026-09-20 17:12:19 UTC
+**Last updated:** 2026-09-20 20:05:17 UTC
